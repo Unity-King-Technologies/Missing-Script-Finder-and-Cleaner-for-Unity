@@ -130,7 +130,7 @@ Editor/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Manual Installation
 1. Clone or download the repository
@@ -199,3 +199,18 @@ Its purpose:
 
 Open an issue in the repository for any bugs, suggestions, or feature requests.  
 Happy developing
+
+---
+
+## ⚠️ Disclaimer
+
+**This tool is provided "as is" without warranty of any kind, express or implied.** While every effort has been made to ensure its reliability and safety, the authors are not responsible for any damage, data loss, or unintended consequences that may result from its use.
+
+**Important Notes:**
+- Always backup your project before using this tool
+- Test in a development environment before applying to production projects
+- The script suggestion feature is experimental and may not always provide appropriate replacements
+- Use the undo system (Ctrl+Z) after operations to revert changes if needed
+- This tool modifies Unity project files and assets - use at your own risk
+
+**Not affiliated with Unity Technologies.**
